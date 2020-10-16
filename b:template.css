@@ -1,0 +1,58 @@
+body#layout .widget-content{overflow:inherit !important}
+body#layout .section h4{margin:2px; display:none !important}
+.box{width:$(content.width); margin-left:auto !important; margin-right:auto !important}
+body#layout .row{margin-left:0; margin-right:0; overflow:hidden}
+body#layout #t-logo:before{    content:'';     background:url('https://4.bp.blogspot.com/-VISni5m2Tok/Vkcvk6Dr9vI/AAAAAAAAGLM/xjNnSrRn-g4/s1600-r/kikyb5.png') no-repeat center center;  width:100px;  height:100px;  display:block;  background-size:contain;  position:absolute;  left:0;  right:44%}
+body#layout #t-logo{ background:#333;  padding:10px;  display:flex;  overflow:hidden;  height:100px}
+body#layout #t-logo h1{ overflow:hidden;  margin-top:100px;  text-align:center;  margin:auto;  display:inline-block}
+body#layout{width: 840px !important;}
+#layout .admin:before{content: 'أعدادات     القالب'; font-size:33px; font-family:arial; font-weight:600; color:#fff; padding:20px; display:inline-flex; background:#444; width:100%; border-top:2px solid #fff; border-bottom:2px solid #fff}
+body#layout .admin .locked-widget .widget-content{background-color:#333; color:#fff; border-color:#fff}
+body#layout .admin div.widget{width:49%; float:left}
+body#layout .option .editlink{height:35px; line-height:35px; bottom:10px; border:2px solid; padding:0 10px;  color:#fff !important;  background-color:#fc9240;  border-color:#fc9240}
+body#layout .option .editlink:hover{background:#444; color:#fff !important; border:2px solid; text-decoration:none}
+body#layout #option{background-color:#444; border:1px solid #444}
+body#layout div.section{background-color:transparent; border:none}
+
+body#layout #header-wrapper{padding-bottom:30px;overflow: hidden;}
+body#layout #header-wrapper:before{content: 'رأس    الصفحة'; font-size:33px; font-family:arial; font-weight:600; color:#fff; padding:20px; display:inline-flex;  background:#fc9240; width:100%}
+body#layout #top-social{width:50%; float:left; margin-right:0}
+body#layout #top-menu{float:right; margin-left:0; width:50%}
+body#layout #header-content{padding:0}
+body#layout #header-content #header{width:68.6% !important; margin-right:-3px !important; float:right; max-width:inherit}
+body#layout #header-content .header{width:100% !important}
+body#layout #header-content #topad{width:46.7% !important; float:left; padding:0 !important; position:absolute; left:0; margin-right:4px !important; margin-top:10px !important}
+body#layout #header-content #ad{float:left; width:100% !important}
+body#layout #header-wrapper .add_widget{display:none !important}
+body#layout .editlink{height:35px; line-height:35px; bottom:7px; border:2px solid; padding:0 10px; color:#fff !important; border-radius:5px; background-color:#FB913F}
+body#layout .editlink:hover{background:#fff; color:#FC9240 !important; border:2px solid; text-decoration:none; transition:all .2s ease; -webkit-transition:all .2s ease; -moz-transition:all .2s ease; -o-transition:all .2s ease}
+body#layout #menu{width:98.8% !important}
+body#layout div.layout-title{text-transform:capitalize}
+
+#layout #intro-wrapper:before{content: 'عارض    الشرائح   "سلايدر"'; font-size:33px; font-family:arial; font-weight:600; color:#fff;  background:#fc9240; padding:20px; display:inline-flex; width:100%}
+body#layout #intro-wrapper{margin-left:0; margin-right:0; margin-bottom:26px; padding-bottom:20px;overflow: hidden;}
+
+#layout #main-wrapper:before{content: 'التدوينات    و     المقالات'; font-size:33px; font-family:arial; font-weight:600; color:#fff; padding:20px; display:inline-flex; width:100%;  background:#fc9240}
+body#layout #main-wrapper{width:67%; float:right}
+
+#layout #sidebar-wrapper:before{content: 'القائمة     الجانبية'; font-size:33px; font-family:arial; font-weight:600; color:#fff;  background:#fc9240; padding:20px; display:inline-flex; width:100%}
+body#layout #sidebar-wrapper{width:32%; float:left;  border-right:2px solid #fc9240}
+body#layout #footer-wrapper{overflow: hidden;}
+#layout #footer-wrapper:before{content: 'ذيل     الصفحة'; font-size:33px; font-family:arial; font-weight:600;  color:#fff;  background:#fc9240; padding:20px; display:inline-flex; width:100%}
+#layout #footer-wrapper .footer-column{width:33%; float:left}
+
+#layout #copyrights-wrapper:before{content: 'أيقونات    مواقع    التواصل';font-size:33px; font-family:arial; font-weight:600; color:#fff;  background:#fc9240; padding:20px; display:inline-flex; width:100%}
+body#layout #copyrights-wrapper{width:100%; margin-top:50px; border-bottom:2px solid #cbcbcb;overflow: hidden;}
+body#layout{overflow:hidden}
+body#layout .hide{display:block}
+body#layout .box{width:100%}
+body#layout .section >div.dropregion:last-child{clear:both}
+body#layout .widget{height:auto !important; float:none}
+body#layout .section{padding:10px !important; width:auto !important; margin:0 !important; height:auto !important; float:none}
+body#layout .section-label{padding:10px; display:block}
+body#layout .section-label .widget-content{background:none; border:none}
+body#layout .section-label .widget-content div.layout-title{font-size:30px}
+body#layout .section-label .editlink{display:none}
+}
+body#layout div.layout-widget-description{ display:none !important}
+
